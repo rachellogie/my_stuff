@@ -11,6 +11,9 @@ handlers:
 - url: /meatball\.jpg
   static_files: meatball.jpg
   upload: meatball\.jpg
+- url: /mypage_stylesheet\.css
+  static_files: mypage_stylesheet.css
+  upload: mypage_stylesheet\.css
 
 - url: .*
   script: main.app

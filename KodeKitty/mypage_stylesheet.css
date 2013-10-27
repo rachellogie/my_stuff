@@ -1,0 +1,18 @@
+
+body{
+	background-color:black;
+}
+h1{
+	color:teal;
+	font-family: 'Abril Fatface', cursive;
+}
+p{
+	color:teal;
+	font-family: 'Abril Fatface', cursive;
+}
+.right{
+	float:right;
+}
+.left{
+	float:left;
+}

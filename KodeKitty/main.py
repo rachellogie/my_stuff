@@ -20,14 +20,15 @@ MAIN_PAGE_HTML = """\
 <html>
 
 <head>
-	<title> my page </title>
-	<link type="text/css" rel="mypage_stylesheet" href="mypage_styelsheet.css"/>
+	<title> Meatball </title>
+	<link type="text/css" rel="stylesheet" href="mypage_stylesheet.css"/>
+	<link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
 	<div class="left">
 		<h1>Hi,</h1>
-		<h1>I'm Rachel.</h1>
+		<h1>This is my cat Meatball.</h1>
 		<p>I love cats, especially fat ones.</p>
 	</div>
 	<div class="right">
